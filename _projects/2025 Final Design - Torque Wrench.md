@@ -19,8 +19,7 @@ From the baseline design, our wrench has smaller handle dimensions as well as an
 
 Figure 1: Wrench Design Dimensions
 
-![image here](/assets/images/radio-machine-cad.jpg)
-
+![Profile Picture]({{ "assets/images/IMG_7096.JPEG" | relative_url }}){: class="profile-image"}
 
 **Describe material used and its relevant mechanical properties**
 
