@@ -9,7 +9,7 @@ title: Amanda Nicholson
 ![Profile Picture]({{ "assets/images/IMG_7096.JPEG" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am a Junior At Cornell Majoring in Biomedical Engineering with a concentration in biomedical mechanics and mechanobiology. I am also minoring in Mechanical Engineering. 
+My name is {{ site.name }}, and I am a Junior at Cornell majoring in Biomedical Engineering with a concentration in biomedical mechanics and mechanobiology. I am also minoring in Mechanical Engineering. 
 
 I am still exploring what I would like to do in the future, but I have a strong interest in medical device development, human space flight, and research. 
 
