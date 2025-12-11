@@ -31,24 +31,14 @@ In Ansys mechanical, the boundary conditions and loads can be applied in the sta
 
 Figure 2: Adding Clamped Boundary
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image here]({{ site.baseurl }}/assets/images/step1.png)
+![image here]({{ site.baseurl }}/assets/images/step2.png)
+![image here]({{ site.baseurl }}/assets/images/step3.png)
+![image here]({{ site.baseurl }}/assets/images/step4.png)
 
 Figure 2: Adding Load to End of Handle
 
-
+![image here]({{ site.baseurl }}/assets/images/loadstep1.png)
 
 **Normal Strain contours (in the strain gauge direction) for FEM**
 
@@ -56,13 +46,12 @@ The contour plot for normal strain shown in Figure 4 was obtained after using a 
 
 Figure 4: Normal Elastic Strain (X Axis) PRE Mesh Refinement
 
-
+![image here]({{ site.baseurl }}/assets/images/strainpre.png)
 
 After refining the original mesh size to 0.1in and 0.02 in for the handle and drive components respectively, the contour plot for normal elastic strain was obtained and is shown in Figure 5.
 Figure 5: Normal Elastic Strain (X Axis) POST Mesh Refinement
 
-
-
+![image here]({{ site.baseurl }}/assets/images/strainpost.png)
 
 **Contour plot of maximum principal stress for FEM**
 
