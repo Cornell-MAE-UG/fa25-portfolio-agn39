@@ -19,7 +19,7 @@ From the baseline design, our wrench has smaller handle dimensions as well as an
 
 Figure 1: Wrench Design Dimensions
 
-![image here](assets/images/cadmodel.png)
+![image here](/assets/images/cad%20model.png)
 
 
 **Describe material used and its relevant mechanical properties**
