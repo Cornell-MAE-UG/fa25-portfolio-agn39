@@ -18,7 +18,7 @@ As our final wrench design, my partner (Navya Penati ngp42) and I iterated our d
 From the baseline design, our wrench has smaller handle dimensions as well as an additional fillet at the base of the drive. These dimensions are shown in Figure 1.
 
 Figure 1: Wrench Design Dimensions
-[alt text](/assets/images/cad model.png)
+![alt text](assets/images/cad model.png)
 
 
 **Describe material used and its relevant mechanical properties**
