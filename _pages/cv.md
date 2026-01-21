@@ -56,6 +56,18 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
   - Reduced manual analysis of requirement and verification documentation by over 80%.
   - Used an iterative development approach with user feedback and produced comprehensive documentation to ensure effective tool adoption.
 
+- **Cornell University Systems Engineering Department - Student Administrative Assistant**  
+  January, 2025 - Present  
+  - Assisted with incoming and outgoing mail for the department and ensured proper delivery to department faculty.
+  - Supported departmental communication by posting event notices around buildings and answering phone calls.
+  - Maintained office organization by organizing, cleaning, and taking inventory of cabinets and other office spaces.
+
+  - **Aerie - Seasonal Sales Associate**  
+  October, 2022 - July 2023  
+  - Maintained organized and visually appealing merchandise displays by folding clothing, restocking items, and operating the cash register for efficient transactions.
+  - Delivered friendly, attentive customer service to create a positive and welcoming shopping environment.
+  - Thrived in a fast-paced, high-pressure environment by efficiently managing customer needs during holiday seasons
+
 ---
 
 #### Extracurricular Activities
