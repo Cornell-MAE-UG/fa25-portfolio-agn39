@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [agn@cornell.edu](mailto:ang@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [agn@cornell.edu](mailto:ang@cornell.edu) | | | **Phone:** +703 297 9145
 
 ---
 
@@ -19,19 +19,20 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Biomedical Engineering*  
+  GPA: 3.3/4.0 | Graduation: May, 2027
 
-- **[High School Name]**  
+- **Briar Woods High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  GPA: 4.57/4.0 |
+  Graduation: June, 2023
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software and Programs:** ANSYS Mechanical/Fluent, Visual Studio Code, Windsurf, Confluence, Microsoft Office 
+- **Programming Languages:** Python, MATLAB  
+- **Laboratory Skills:** Cytotoxicity testing, ELISA, chemotaxis testing (with ImageJ), cell staining, cell counting, tension and fracture testing 
 
 ---
 
@@ -53,12 +54,6 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
   [Month, Year] - [Month, Year]  
   - Responsibility 1  
   - Responsibility 2  
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
 
 ---
 
