@@ -50,10 +50,11 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Northrop Grumman Space Systems Sector - Systems Engineering Intern**  
+  June, 2025 - August, 2025  
+  - Developed Python-based automation for streamline requirements and verification analysis and export. 
+  - Reduced manual analysis of requirement and verification documentation by over 80%.
+  - Used an iterative development approach with user feedback and produced comprehensive documentation to ensure effective tool adoption.
 
 ---
 
