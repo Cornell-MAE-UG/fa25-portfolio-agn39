@@ -12,6 +12,8 @@ As our final wrench design, my partner (Navya Penati ngp42) and I iterated our d
 
 ###### **Navya Penati (ngp42) and Amanda Nicholson (agn39) Final Project Part II**
 
+Personal contribution: Facotor of safety Python script, Material selection from Granta, FEM analysis in ANSYS and iteration 
+
 
 ###### **5.2.1 Results**
 

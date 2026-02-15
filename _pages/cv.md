@@ -32,7 +32,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Skills
 - **Software and Programs:** ANSYS Mechanical/Fluent, Visual Studio Code, Windsurf, Confluence, Microsoft Office 
 - **Programming Languages:** Python, MATLAB  
-- **Laboratory Skills:** Cytotoxicity testing, ELISA, chemotaxis testing (with ImageJ), cell staining, cell counting, tension and fracture testing 
+- **Laboratory Experience:** Cytotoxicity testing, ELISA, chemotaxis testing (with ImageJ), cell staining, cell counting, tension and fracture testing 
 
 ---
 
@@ -62,7 +62,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
   - Supported departmental communication by posting event notices around buildings and answering phone calls.
   - Maintained office organization by organizing, cleaning, and taking inventory of cabinets and other office spaces.
 
-  - **Aerie - Seasonal Sales Associate**  
+- **Aerie - Seasonal Sales Associate**  
   October, 2022 - July 2023  
   - Maintained organized and visually appealing merchandise displays by folding clothing, restocking items, and operating the cash register for efficient transactions.
   - Delivered friendly, attentive customer service to create a positive and welcoming shopping environment.
