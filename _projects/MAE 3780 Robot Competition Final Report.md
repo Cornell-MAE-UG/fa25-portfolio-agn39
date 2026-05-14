@@ -3,12 +3,16 @@ layout: project
 title: MAE 3780 Robot Competition Final Report
 description: Final design project that uses both ... and C programming to create a functional, autonomous robot for the purpose of picking up cubes 
 technologies: [Arduino IDE, C, CAD]
-image: /assets/images/Screenshot 2025-12-09 231553.png
+image: /assets/images/Screenshot 2026-05-13 204201.png
 ---
 
-As our final wrench design, my partner (Navya Penati ngp42) and I iterated our design through testing different material choices and dimensions to create a working wrench design that fits all of the specified design requirements. This includes the factors of safety for strength, crack, and fatigue as well as the required electrical output of our chosen strain gauge. Details on our dimensions, material choice, and analysis using Ansys are described below:
+more description here
 
 [Final Homework Part II]({{ "/MAE 3270 Final Project Part 2.pdf" | relative_url }}) in PDF format.
+
+###### **Main Contributions**
+
+My contributions to this project consisted mainly of wiring the circuit, writing the code, and debugging
 
 ###### **Navya Penati (ngp42), Logan Roberts (llr63), and Amanda Nicholson (agn39) Final Report**
 
@@ -64,14 +68,14 @@ Our advice to students doing this project next year would be to test early, keep
 ###### **Appendix A - Bill of Materials**
 
 
-![image here]({{ site.baseurl }}/assets/images/cadmodel2.png)
+![image here]({{ site.baseurl }}/assets/images/Screenshot 2026-05-13 214448.png)
 
 
 
 **Appendix B - Circuit Diagram**
 
 
-![image here]({{ site.baseurl }}/assets/images/step1.png)
+![image here]({{ site.baseurl }}/assets/images/Screenshot 2026-05-13 150440.png)
 
 
 
@@ -93,7 +97,7 @@ This CAD model shows the design we used for our final robot. It functions like a
 ###### **Appendix D - Flow Chart**
 
 
-![image here]({{ site.baseurl }}/assets/images/loadstep1.png)
+![image here]({{ site.baseurl }}/assets/images/Screenshot 2026-05-13 152855.png)
 
 
 
