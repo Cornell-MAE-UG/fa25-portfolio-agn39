@@ -1,20 +1,22 @@
 ---
 layout: project
 title: Robot Competition Final Report
-description: Final design project that uses both ... and C programming to create a functional, autonomous robot for the purpose of picking up cubes 
+description: Final design project that uses both hardware and C programming to create a functional, autonomous robot to navigate an arena, and pick up cubes.
 technologies: [Arduino IDE, C, CAD]
 image: /assets/images/Screenshot 2026-05-13 204201.png
 ---
 
-more description here
+The group's objective in this project was to compile the practical skills we learned about circuitry and software to program a fully autonomous robot that was capable of navigating a given space in a competative environment. Our robot was ultimately controlled using Arduino-based logic and C programming to complete given taks. We used a combination of DC motors, color sensors, QTI sensors, H-bridges, ultrasonic sensors, and CAD modeling in the iterative process. Below is a full description of the groups design, strategy, and competition outcome.
 
 [Robot Competition Final Report]({{ "/MAE 3780 Final Report.pdf" | relative_url }}) in PDF format.
 
 ###### **Main Contributions**
 
-My contributions to this project consisted mainly of wiring the circuit, writing the code, and debugging
+My contributions to this project consisted mainly of helping do design and wire the circuitry for the robot, develop the arduino code for controling the robot's functions, and debugging hardware and software issues that the group ran into during the design process.
 
-###### **Navya Penati (ngp42), Logan Roberts (llr63), and Amanda Nicholson (agn39) Final Report**
+
+###### **Group 27: Navya Penati (ngp42), Logan Roberts (llr63), and Amanda Nicholson (agn39) Final Report**
+
 
 ###### **Robot Design and Strategy Overview**
 
