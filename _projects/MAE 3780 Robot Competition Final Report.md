@@ -54,7 +54,7 @@ The biggest weakness was that the robot sometimes drove off the board. Since the
 The competition showed that our robot worked best with a simple and reliable movement strategy. However, better QTI sensor reliability would have helped the robot detect the border and avoid leaving the board while still collecting cubes. 
 
 
-![image here]({{ site.baseurl }}/assets/images/cadmodel2.png)
+![image here]({{ site.baseurl }}/assets/images/Screenshot 2026-04-28 235202.png)
 
 
 
