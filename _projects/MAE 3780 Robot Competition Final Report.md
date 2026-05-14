@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE 3780 Robot Competition Final Report
+title: Robot Competition Final Report
 description: Final design project that uses both ... and C programming to create a functional, autonomous robot for the purpose of picking up cubes 
 technologies: [Arduino IDE, C, CAD]
 image: /assets/images/Screenshot 2026-05-13 204201.png
@@ -25,7 +25,7 @@ Mechanically, our design centered around a collection and storage system inspire
 Electrically the robot used motors controlled-through an H-bridge for forward, reverse, and turning movement. The design also included sensors to help the robot detect its environment, including two QTI sensors for differentiating between the blue and yellow sides of the field and the black border. The software strategy was to make the robot fully autonomous by using sensor input to determine when the robot should move forward, backward, turn, avoid the black border, and continue searching for and collecting cubes.
 
 
-![image here]({{ site.baseurl }}/assets/images/cadmodel2.png)
+![image here]({{ site.baseurl }}/assets/images/Screenshot 2026-05-13 204201.png)
 
 
 
@@ -68,14 +68,14 @@ Our advice to students doing this project next year would be to test early, keep
 ###### **Appendix A - Bill of Materials**
 
 
-![image here]({{ site.baseurl }}/assets/images/Screenshot 2026-05-13 214448.png)
+![image here]({{ site.baseurl }}/assets/images/Screenshot 2026-05-13 215201.png)
 
 
 
 **Appendix B - Circuit Diagram**
 
 
-![image here]({{ site.baseurl }}/assets/images/Screenshot 2026-05-13 150440.png)
+![image here]({{ site.baseurl }}/assets/images/Screenshot 2026-05-13 215022.png)
 
 
 
@@ -84,13 +84,13 @@ Our advice to students doing this project next year would be to test early, keep
 This CAD model shows our original design. The cubes were meant to be pushed up a ramp and collected in the box. However, the box ended up being too large for our robot, and the overall design was too complicated, so we decided not to use it and changed our design.
 
 
-![image here]({{ site.baseurl }}/assets/images/loadstep1.png)
+![image here]({{ site.baseurl }}/assets/images/Screenshot 2026-05-13 215323.png)
 
 
 This CAD model shows the design we used for our final robot. It functions like a gate. The cubes enter through the gate and are corralled into a pen. A paper flap is taped to the inside of the gate to prevent the cubes from escaping. We ended up not laser cutting this design. Instead, we used the CAD model as a guide to make the parts out of posterboard.
 
 
-![image here]({{ site.baseurl }}/assets/images/loadstep1.png)
+![image here]({{ site.baseurl }}/assets/images/Screenshot 2026-05-13 215515.png)
 
 
 
